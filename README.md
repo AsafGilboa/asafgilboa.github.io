@@ -11,3 +11,5 @@ The bulk of the file is in one section alone, named "DoItInPe", which is marked 
 
 Another section that stands out is the "ClearedP" section, which has an unusually high entropy score of 7.995.
 [insert ClearedP.jpg]
+
+So ironically, while this file is over 800MB, it is actually packed.
